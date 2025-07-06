@@ -85,3 +85,4 @@ export const footerLinks = [
   "Legal",
   "Site Map",
 ];
+
