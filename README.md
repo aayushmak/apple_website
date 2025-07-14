@@ -1,5 +1,4 @@
 # 🍏 Apple Website Clone
-
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)](https://reactjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![GSAP](https://img.shields.io/badge/GSAP-%5E3.x-88CE02?logo=greensock)](https://greensock.com/gsap/)
@@ -12,33 +11,37 @@ This project recreates smooth scroll-based animations, elegant transitions, and 
 
 ## ✨ Features
 - Smooth, scroll-triggered animations powered by **GSAP**
-- Realistic 3D rendering with **WebGL**
+- Realistic 3D rendering with **WebGL / three.js**
 - Modular, component-based architecture using **React**
-- Clean, responsive, and modern styling with **Tailwind CSS**
+- Clean, responsive styling with **Tailwind CSS**
 - Lightweight and optimized build for better performance
+- 📦 **Newly added sections**:
+  - `Footer` – dynamic copyright
+  - `HowItWorks` – A17 Pro chip animation + gaming video
+  - `Features` – titanium showcase & scroll animations
 
 ---
 
 ## 🛠️ Tech Stack & Main Dependencies
 - **React** – Frontend library
-- **GSAP** – Animation library for smooth scroll and transitions
-- **WebGL / three.js** – For 3D model rendering and effects
-- **Tailwind CSS** – Utility-first CSS framework
-- **Vite** – For fast builds and development server
+- **GSAP** – Animation library
+- **WebGL / three.js** – 3D rendering & effects
+- **Tailwind CSS** – Utility-first styling
+- **Vite** – Fast dev server & builds
 - *(Optional): @react-three/drei, react-router-dom, etc.*
 
-> ⚙️ Install these dependencies (and others in your `package.json`):
+> ⚙️ Install dependencies:
 > ```bash
 > npm install react react-dom gsap three tailwindcss
 > ```
-> *(Plus any additional dependencies your project uses)*
+> *(plus any others used in your `package.json`)*
 
 ---
 
 ## 📦 Installation & Setup
 
 Clone the repository:
-> ```bash
+```bash
 > git clone https://github.com/aayushmak/apple_website.git
 > cd apple_website
 
@@ -58,16 +61,6 @@ Clone the repository:
 
 Then, open your browser and visit:
 👉 http://localhost:5173 (or the port shown in your terminal)
-
----
-
-## 📸 Screenshots / Demo
-
-https://github.com/user-attachments/assets/f4b919a7-e5ac-4d96-88cf-3b634c2fe228
-
----
-
-https://github.com/user-attachments/assets/8001b616-e981-493c-95d6-ded59a3df822
 
 ---
 
