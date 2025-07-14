@@ -41,7 +41,7 @@ This project recreates smooth scroll-based animations, elegant transitions, and 
 ## 📦 Installation & Setup
 
 Clone the repository:
-```bash
+> ```bash
 > git clone https://github.com/aayushmak/apple_website.git
 > cd apple_website
 
